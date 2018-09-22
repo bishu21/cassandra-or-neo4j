@@ -1,0 +1,18 @@
+select * from mytable where author='Narendra Modi' order by tdate ASC;
+
+select * from mytable where keyword='asvajdhs' order by like_count DESC;
+#order by like_count(cluster key) in table in new.py
+select * from mytable where hashtags ='Sindhi' order by date DESC
+
+
+select * from mytable where mentions ='kylegriffin1' order by date DESC
+
+select * from mytable where date = '2017-11-26' order by like_count DESC;
+
+select * from mytable where location= 'Bay Area ✈ Los Angeles ' 
+
+select * from test5.mytable where date='2017-11-26' order by count DESC limit 20;
+ 
+delete * from mytable where date='2017-11-26';
+
+

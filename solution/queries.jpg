@@ -1,0 +1,13 @@
+MATCH (:User { auth_screen_name: 'LuciusGibson' })-->(t)
+       RETURN t.tweetid;
+
+
+MATCH (h1:Hashtag)-[:intweetid]->(:Tweet)<-[:intweetid]-(h:Hashtag)
+       RETURN DISTINCT(h.hashtag),h1.hashtag,Count(*) AS COUNT
+       ORDER BY COUNT DESC
+       LIMIT 2;
+
+
+MATCH (h1:User)-[:TWEETS]->(:Tweet)-[:retweet]->(:Tweet)<-[:TWEETS]-(h2:User)
+       return h1.auth_screen_name,h2.auth_screen_name,Count(*) As count;
+

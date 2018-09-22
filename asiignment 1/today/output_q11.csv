@@ -1,0 +1,508 @@
+date       | count | men_loc(mention+location)
+------------+-------+----------------------------------------------
+ 2017-12-30 |    17 |                     SrBachchanhubli, dharwad
+ 2017-12-30 |     5 |   narendramodiNawalgarh, jhunjhunu rajasthan
+ 2017-12-30 |     5 |                            narendramodiIndia
+ 2017-12-30 |     4 |                       Swamy39Berlin, Germany
+ 2017-12-30 |     4 |                                  SrBachchan 
+ 2017-12-30 |     4 |                    BJP4IndiaNew Delhi, India
+ 2017-12-30 |     3 |                            ndtvKerala, India
+ 2017-12-30 |     3 |        narendramodiBasti uttar pradesh india
+ 2017-12-30 |     3 |                                 Swamy39India
+ 2017-12-30 |     3 |                            SushmaSwarajIndia
+ 2017-12-30 |     3 |                    SrBachchanहोशियारपुर, भारत
+ 2017-12-30 |     3 |              ShatruganSinhaPune, Maharashtra
+ 2017-12-30 |     3 |       PMOIndiaNawalgarh, jhunjhunu rajasthan
+ 2017-12-30 |     3 |                    NitishKumarSasaram, India
+ 2017-12-30 |     3 |                MaryamNSharifLahore, Pakistan
+ 2017-12-30 |     3 |                  ImranKhanPTILondon, England
+ 2017-12-30 |     3 |                       INCIndiaJodhpur, India
+ 2017-12-30 |     3 |                              BJP4Indiajaipur
+ 2017-12-30 |     3 |                       AmitShahKatihar, India
+ 2017-12-30 |     3 |                          ANINew Delhi, India
+ 2017-12-30 |     3 |                                     ANIIndia
+ 2017-12-30 |     2 |                  varungandhi80नई दिल्ली, भारत
+ 2017-12-30 |     2 |                    timesofindiaKerala, India
+ 2017-12-30 |     2 |                               the_hinduindia
+ 2017-12-30 |     2 |                          sureshpprabhujaipur
+ 2017-12-30 |     2 |                                rsprasadTheni
+ 2017-12-30 |     2 |                   rajnathsinghनई दिल्ली, भारत
+ 2017-12-30 |     2 |                    nsitharamanनई दिल्ली, भारत
+ 2017-12-30 |     2 |                          nitin_gadkarijaipur
+ 2017-12-30 |     2 |                     ndtvRohtak, 124001 India
+ 2017-12-30 |     2 |                             ndtvRatia, India
+ 2017-12-30 |     2 |                                   ndtvMumbai
+ 2017-12-30 |     2 |                   narendramodiनई दिल्ली, भारत
+ 2017-12-30 |     2 |                narendramodividisha mp India 
+ 2017-12-30 |     2 |                  mygovindiavidisha mp India 
+ 2017-12-30 |     2 |                   mygovMahavidisha mp India 
+ 2017-12-30 |     2 |                      msisodiaBilaspur, India
+ 2017-12-30 |     2 |    ipakistaneeخانقاہ قادریہ نقشبندی دریاشریف
+ 2017-12-30 |     2 |                    arunjaitleyनई दिल्ली, भारत
+ 2017-12-30 |     2 |                           aajtakRatia, India
+ 2017-12-30 |     2 |                               ZeeNewsKOLKATA
+ 2017-12-30 |     2 |                                TimesNowIndia
+ 2017-12-30 |     2 |                   SushmaSwarajनई दिल्ली, भारत
+ 2017-12-30 |     2 |       SrBachchan गेराई  G.T रोड गोपीगंज भदोही 
+ 2017-12-30 |     2 |                           POTUSTweeter Land 
+ 2017-12-30 |     2 |                       PMOIndiaनई दिल्ली, भारत
+ 2017-12-30 |     2 |                    PMOIndiavidisha mp India 
+ 2017-12-30 |     2 |                        PMOIndiaLas Vegas, NV
+ 2017-12-30 |     2 |                                PMOIndiaIndia
+ 2017-12-30 |     2 |            PMOIndiaBasti uttar pradesh india
+ 2017-12-30 |     2 |                 PMOIndiaBarabanki u.p. India
+ 2017-12-30 |     2 |                   OfficeOfRGNew Delhi, India
+ 2017-12-30 |     2 |              OfficeOfRGBallabgarh, Faridabad
+ 2017-12-30 |     2 |     MofInteriorPKDubai, United Arab Emirates
+ 2017-12-30 |     2 |                   MaryamNSharifUnited States
+ 2017-12-30 |     2 |                Manekagandhibjpनई दिल्ली, भारत
+ 2017-12-30 |     2 |       JahangirKTareenRahim Yar Khan Pakistan
+ 2017-12-30 |     2 |                Dev_Fadnavisvidisha mp India 
+ 2017-12-30 |     2 |         CMShehbazDubai, United Arab Emirates
+ 2017-12-30 |     2 |              CMOMaharashtravidisha mp India 
+ 2017-12-30 |     2 |                           BJP4IndiaBangalore
+ 2017-12-30 |     2 |                           BJP4Himachaljaipur
+ 2017-12-30 |     2 |                   Ashabachchanhubli, dharwad
+ 2017-12-30 |     2 |                               AmitShahjaipur
+ 2017-12-30 |     2 |            AmitShahBasti uttar pradesh india
+ 2017-12-30 |     2 |                    AamAadmiPartyRatia, India
+ 2017-12-30 |     2 |                                     ANI~भारत
+ 2017-12-30 |     1 |                    yadavtejashwiBihar, India
+ 2017-12-30 |     1 |                 yadavsunanda08hubli, dharwad
+ 2017-12-30 |     1 |               yadavakhileshsome whr on earth
+ 2017-12-30 |     1 |                  withMRCCChhattisgarh, Delhi
+ 2017-12-30 |     1 |                              vishy64theking✈️
+ 2017-12-30 |     1 |                  vishy64thekingराजस्थान, भारत
+ 2017-12-30 |     1 |    vishy64thekingमायापूरी, UP - Corrupt India
+ 2017-12-30 |     1 |                vishy64thekingTwitter-Pradesh
+ 2017-12-30 |     1 |               vishy64thekingNew Delhi, India
+ 2017-12-30 |     1 | vishy64thekingNawalgarh, jhunjhunu rajasthan
+ 2017-12-30 |     1 |       vishy64thekingFerozepur ,Punjab ,India
+ 2017-12-30 |     1 |      vishy64thekingBasti uttar pradesh india
+ 2017-12-30 |     1 |                    vikasm12345hubli, dharwad
+ 2017-12-30 |     1 |       vikasm12345Kopar Khairane, Navi Mumbai
+ 2017-12-30 |     1 |      vijayrupanibjpBasti uttar pradesh india
+ 2017-12-30 |     1 |                              tsrawatbjpIndia
+ 2017-12-30 |     1 |                               timesofindia🇫🇷
+ 2017-12-30 |     1 |                timesofindiaTrês Rios, Brasil
+ 2017-12-30 |     1 |                timesofindiaJammu And Kashmir
+ 2017-12-30 |     1 |                        timesofindiaHyderabad
+ 2017-12-30 |     1 |                 timesofindiaBangalore, India
+ 2017-12-30 |     1 |                             the_hinduMumbai 
+ 2017-12-30 |     1 |                 the_hinduCentre of Gravity 🌍
+ 2017-12-30 |     1 |                    the_hinduBristol, England
+ 2017-12-30 |     1 |                the_hinduBengaluru, Karnataka
+ 2017-12-30 |     1 |                    the_hinduBengaluru, India
+ 2017-12-30 |     1 |                    tagesschauCalifornia, USA
+ 2017-12-30 |     1 |                       sudhirchaudharyKOLKATA
+ 2017-12-30 |     1 |    smritiiraniNawalgarh, jhunjhunu rajasthan
+ 2017-12-30 |     1 |                             smritiiraniIndia
+ 2017-12-30 |     1 |                         smritiiraniGopalganj
+ 2017-12-30 |     1 |         smritiiraniBasti uttar pradesh india
+ 2017-12-30 |     1 |                         smritiiraniAustralia
+
+---MORE---
+ date       | count | men_loc
+------------+-------+--------------------------------------------
+ 2017-12-30 |     1 |     sardesairajdeepNew Delhi, jamia millia
+ 2017-12-30 |     1 |             sanjaynirupamJamshedpur, India
+ 2017-12-30 |     1 |           sanjaynirupamChhattisgarh, Delhi
+ 2017-12-30 |     1 |                          rsprasadbangalore
+ 2017-12-30 |     1 |                     rsprasadManawar, India
+ 2017-12-30 |     1 |             rsprasadHindvi Swaraj - 142364
+ 2017-12-30 |     1 |                           rsprasadChittoor
+ 2017-12-30 |     1 |          rsprasadBasti uttar pradesh india
+ 2017-12-30 |     1 |             rsprasad20.5937° N, 78.9629° E
+ 2017-12-30 |     1 |                             rossjuddboston
+ 2017-12-30 |     1 |                        raosahebdanvejaipur
+ 2017-12-30 |     1 |              rajnathsinghAurangabad, India
+ 2017-12-30 |     1 |                    ppbajpaiBilaspur, India
+ 2017-12-30 |     1 |          poonam_mahajanChattisgarh , India
+ 2017-12-30 |     1 |                   pmln_orgLahore, Pakistan
+ 2017-12-30 |     1 |                         pmln_orgIslamabad 
+ 2017-12-30 |     1 |                         nsuiTitabor, India
+ 2017-12-30 |     1 |                        nsuiLudhiana, India
+ 2017-12-30 |     1 |                         nsuiJodhpur, India
+ 2017-12-30 |     1 |                      nsuiJamshedpur, India
+ 2017-12-30 |     1 |                                  nsuiIndia
+ 2017-12-30 |     1 |                  nsuiBallabgarh, Faridabad
+ 2017-12-30 |     1 |           nstomarBasti uttar pradesh india
+ 2017-12-30 |     1 |                                  ndtvindia
+ 2017-12-30 |     1 |                                  ndtvQatar
+ 2017-12-30 |     1 |              ndtvMissouri/Gloucester/India
+ 2017-12-30 |     1 |                                  ndtvIndia
+ 2017-12-30 |     1 |                              ndtvHyderabad
+ 2017-12-30 |     1 |                                ndtvGermany
+ 2017-12-30 |     1 |                            ndtvDelhi,india
+ 2017-12-30 |     1 |                 ndtvCity of London, London
+ 2017-12-30 |     1 |                            ndtvChicago, IL
+ 2017-12-30 |     1 |           ndtvBandipore, Jammu And Kashmir
+ 2017-12-30 |     1 |                  ndtvBalochistan, Pakistan
+ 2017-12-30 |     1 |                              narendramodi✈️
+ 2017-12-30 |     1 |                   narendramodiગુજરાત, ભારત 
+ 2017-12-30 |     1 |    narendramodiमायापूरी, UP - Corrupt India
+ 2017-12-30 |     1 |                           narendramodiभारत
+ 2017-12-30 |     1 |                   narendramodiबोधगया, भारत
+ 2017-12-30 |     1 |                     narendramodiछपरा, भारत
+ 2017-12-30 |     1 |         narendramodivadodara,gujarat,india
+ 2017-12-30 |     1 |              narendramodisome whr on earth
+ 2017-12-30 |     1 |                         narendramodijaipur
+ 2017-12-30 |     1 |        narendramodichandawal nagar , India
+ 2017-12-30 |     1 |                    narendramodibhubaneswar
+ 2017-12-30 |     1 |                            narendramodiara
+ 2017-12-30 |     1 |  narendramodiWHERE KNOWLEDGE IS UNBOUNDED 
+ 2017-12-30 |     1 |                narendramodiTwitter-Pradesh
+ 2017-12-30 |     1 |                narendramodiSheoganj, India
+ 2017-12-30 |     1 |              narendramodiShahganj. Jounpur
+ 2017-12-30 |     1 |                          narendramodiQatar
+ 2017-12-30 |     1 |                    narendramodiPune, India
+ 2017-12-30 |     1 |                           narendramodiPune
+ 2017-12-30 |     1 |               narendramodiNew Delhi, India
+ 2017-12-30 |     1 |                  narendramodiMumbai, India
+ 2017-12-30 |     1 |               narendramodiMubarikpur India
+ 2017-12-30 |     1 |             narendramodiMaharashtra, India
+ 2017-12-30 |     1 |             narendramodiKṛṣṇa's Lotus Feet
+ 2017-12-30 |     1 |                 narendramodiKatihar, India
+ 2017-12-30 |     1 |                  narendramodiJaipur, India
+ 2017-12-30 |     1 |       narendramodiFerozepur ,Punjab ,India
+ 2017-12-30 |     1 | narendramodiDeoghar Professors Colony, Deo
+ 2017-12-30 |     1 |                     narendramodiCoimbatore
+ 2017-12-30 |     1 |                    narendramodiChicago, IL
+ 2017-12-30 |     1 |            narendramodiChattisgarh , India
+ 2017-12-30 |     1 |                   narendramodiBihar, India
+ 2017-12-30 |     1 |                 narendramodiBharat (India)
+ 2017-12-30 |     1 |                       narendramodiBasti up
+ 2017-12-30 |     1 |      narendramodiAdelaide, South Australia
+ 2017-12-30 |     1 |                    narendramodi  Bengaluru
+ 2017-12-30 |     1 |                            mygovindiaTheni
+ 2017-12-30 |     1 |                         mygovindiaChittoor
+ 2017-12-30 |     1 |                      mujibshami1Islamabad 
+ 2017-12-30 |     1 |                  msisodiaUttarakhand India
+ 2017-12-30 |     1 |                            msisodiaGurgaon
+ 2017-12-30 |     1 |                       mlkhattarहिसार, भारत
+ 2017-12-30 |     1 |         mlkhattarBasti uttar pradesh india
+ 2017-12-30 |     1 |                 mishrasugandhaRatia, India
+ 2017-12-30 |     1 |                          milinddeoraMumbai
+ 2017-12-30 |     1 |           meerasanyalIndianapolis, IN, USA
+ 2017-12-30 |     1 |       mayukhrghoshJammu, Jammu And Kashmir
+ 2017-12-30 |     1 |   manoharparrikarBasti uttar pradesh india
+ 2017-12-30 |     1 |                laluprasadrjdमहाराष्ट्र, भारत
+ 2017-12-30 |     1 |             laluprasadrjdPune, Maharashtra
+ 2017-12-30 |     1 |            laluprasadrjdPithoragarh, India
+ 2017-12-30 |     1 |                  laluprasadrjdGumia, India
+ 2017-12-30 |     1 |  laluprasadrjdGHIROR DISTRICT MAINPURI UP 
+ 2017-12-30 |     1 |                      laluprasadrjdBanda,up
+ 2017-12-30 |     1 |                 kpmaurya1vidisha mp India 
+ 2017-12-30 |     1 |         kpmaurya1Basti uttar pradesh india
+ 2017-12-30 |     1 |              kpmaurya1Barabanki u.p. India
+ 2017-12-30 |     1 |                     jayantsinha  Bengaluru
+ 2017-12-30 |     1 |                jairamthakurbjpRatia, India
+ 2017-12-30 |     1 |            jairamthakurbjpNew Delhi, India
+ 2017-12-30 |     1 |                          jafarhaandGermany
+ 2017-12-30 |     1 |   iqrarulhassanDubai, United Arab Emirates
+ 2017-12-30 |     1 |                           imVkohliPortugal
+ 2017-12-30 |     1 |                     iRahulSahuदेहरादून, भारत
+ 2017-12-30 |     1 |          husainhaqqaniLucerne, Switzerland
+ 2017-12-30 |     1 |                       husainhaqqaniGermany
+
+---MORE---
+ date       | count | men_loc
+------------+-------+------------------------------------------
+ 2017-12-30 |     1 |                              htTweetsUSA
+ 2017-12-30 |     1 |                 firstpostCalifornia, USA
+ 2017-12-30 |     1 |            faizanlakhaniTry and find it 
+ 2017-12-30 |     1 |                     eMitraRajasthanIndia
+ 2017-12-30 |     1 |          drramansinghChattisgarh , India
+ 2017-12-30 |     1 |           dpradhanbjpChattisgarh , India
+ 2017-12-30 |     1 |                   dasraghubarझारखंड, भारत
+ 2017-12-30 |     1 |                     cmohryUdaipur, India
+ 2017-12-30 |     1 |                     capt_amarinderdausa 
+ 2017-12-30 |     1 |           bainjalNew Delhi, jamia millia
+ 2017-12-30 |     1 |                   ashraf_waniफ़तेहपुर, भारत
+ 2017-12-30 |     1 |  asadmunir38Bandipore, Jammu And Kashmir
+ 2017-12-30 |     1 |                arvind_nowBerlin, Germany
+ 2017-12-30 |     1 |                   arunjaitleyगुजरात, भारत
+ 2017-12-30 |     1 | arunjaitleyWHERE KNOWLEDGE IS UNBOUNDED 
+ 2017-12-30 |     1 |                         arunjaitleyTheni
+ 2017-12-30 |     1 |     arunjaitleyBasti uttar pradesh india
+ 2017-12-30 |     1 |                   anjujunejaRatia, India
+ 2017-12-30 |     1 |   anjanaomkashyapNew Delhi, jamia millia
+ 2017-12-30 |     1 |                 anaulhaqLahore, Pakistan
+ 2017-12-30 |     1 |           alenushkaukhinaहोशियारपुर, भारत
+ 2017-12-30 |     1 |              alenushkaukhinaHansi, India
+ 2017-12-30 |     1 |         ajmaljamiSomewhere in this world
+ 2017-12-30 |     1 |                adeelsherLahore, Pakistan
+ 2017-12-30 |     1 |                    abpnewstvSavar Kundla
+ 2017-12-30 |     1 |         abpnewstvNew Delhi, jamia millia
+ 2017-12-30 |     1 |      abpnewshindiNew Delhi, jamia millia
+ 2017-12-30 |     1 |          abpnewshindiChattisgarh , India
+ 2017-12-30 |     1 |                       aajtakગુજરાત, ભારત 
+ 2017-12-30 |     1 |                        aajtakफ़तेहपुर, भारत
+ 2017-12-30 |     1 |            aajtakNew Delhi, jamia millia
+ 2017-12-30 |     1 |                   aajtakNew Delhi, India
+ 2017-12-30 |     1 |                    aajtakLudhiana, India
+ 2017-12-30 |     1 |                   aajtakHazaribag, India
+ 2017-12-30 |     1 |                     aajtakGujarat, India
+ 2017-12-30 |     1 |                       _DigitalIndiaTheni
+ 2017-12-30 |     1 |                    _DigitalIndiaChittoor
+ 2017-12-30 |     1 |            ZeeNewsHindvi Swaraj - 142364
+ 2017-12-30 |     1 |         ZeeNewsBasti uttar pradesh india
+ 2017-12-30 |     1 |                      VasundharaBJPjaipur
+ 2017-12-30 |     1 |     VasundharaBJPchandawal nagar , India
+ 2017-12-30 |     1 |                       VasundharaBJPIndia
+ 2017-12-30 |     1 |   VasundharaBJPBasti uttar pradesh india
+ 2017-12-30 |     1 |                    TimesNowMumbai, India
+ 2017-12-30 |     1 |                    TimesNowKerala, India
+ 2017-12-30 |     1 |         TimesNowJammu, Jammu And Kashmir
+ 2017-12-30 |     1 |                 TheniasharmaHansi, India
+ 2017-12-30 |     1 |      SwetaSinghATNew Delhi, jamia millia
+ 2017-12-30 |     1 |                            Swamy39ಮೈಸೂರು
+ 2017-12-30 |     1 |                      Swamy39देहरादून, भारत
+ 2017-12-30 |     1 |      Swamy39hyderabad, telangana, india.
+ 2017-12-30 |     1 |                         Swamy39bangalore
+ 2017-12-30 |     1 |           Swamy39ayodhya, kashi, mathura
+ 2017-12-30 |     1 |               Swamy39West Ridge, Chicago
+ 2017-12-30 |     1 |           Swamy39Sydney, New South Wales
+ 2017-12-30 |     1 |                Swamy39Sanchore Rajasthan
+ 2017-12-30 |     1 |                        Swamy39Queens, NY
+ 2017-12-30 |     1 |                    Swamy39Puttur,  India
+ 2017-12-30 |     1 |                      Swamy39Patna, India
+ 2017-12-30 |     1 |                     Swamy39Paris, France
+ 2017-12-30 |     1 |                 Swamy39Newport Beach, CA
+ 2017-12-30 |     1 |         Swamy39New Jersey, NYC, Tel Aviv
+ 2017-12-30 |     1 |                        Swamy39New Delhi 
+ 2017-12-30 |     1 |                         Swamy39NEW DELHI
+ 2017-12-30 |     1 |                     Swamy39Mumbai, India
+ 2017-12-30 |     1 |                     Swamy39Michigan, USA
+ 2017-12-30 |     1 |                          Swamy39Ludhiana
+ 2017-12-30 |     1 |                   Swamy39Lalitpur, India
+ 2017-12-30 |     1 |                        Swamy39Islamabad 
+ 2017-12-30 |     1 |                        Swamy39India,Usa 
+ 2017-12-30 |     1 |                  Swamy39Gorakhpur, India
+ 2017-12-30 |     1 |                      Swamy39Florida, USA
+ 2017-12-30 |     1 |               Swamy39Chhattisgarh, India
+ 2017-12-30 |     1 |                        Swamy39Chandigarh
+ 2017-12-30 |     1 |             Swamy39Borivali West, Mumbai
+ 2017-12-30 |     1 |                         Swamy39Boise, ID
+ 2017-12-30 |     1 |            Swamy39Bengaluru South, India
+ 2017-12-30 |     1 |                         Swamy39Bangalore
+ 2017-12-30 |     1 |                              Swamy39Agra
+ 2017-12-30 |     1 |       SushmaSwarajsmartcity, Bhubaneswar
+ 2017-12-30 |     1 |         SushmaSwarajUttar Pradesh, India
+ 2017-12-30 |     1 |                  SushmaSwarajPune, India
+ 2017-12-30 |     1 |   SushmaSwarajPeople's Republic of China
+ 2017-12-30 |     1 |                       SushmaSwarajMumbai
+ 2017-12-30 |     1 |               SushmaSwarajLucknow, India
+ 2017-12-30 |     1 |               SushmaSwarajJabalpur. M.p.
+ 2017-12-30 |     1 |                   SushmaSwarajEdinburgh 
+ 2017-12-30 |     1 |                     SushmaSwarajBrisbane
+ 2017-12-30 |     1 |    SushmaSwarajBasti uttar pradesh india
+ 2017-12-30 |     1 |                              SrBachchan💗
+ 2017-12-30 |     1 |                         SrBachchanjaipur
+ 2017-12-30 |     1 |                 SrBachchanUnited Kingdom
+ 2017-12-30 |     1 |                    SrBachchanSwitzerland
+ 2017-12-30 |     1 |            SrBachchanSatna..m.p.( India)
+ 2017-12-30 |     1 |                  SrBachchanMumbai, India
+ 2017-12-30 |     1 |                         SrBachchanMeerut
+ 2017-12-30 |     1 |    SrBachchanKopar Khairane, Navi Mumbai
+ 2017-12-30 |     1 |                   SrBachchanHansi, India
+ 2017-12-30 |     1 |              SrBachchanChandigarh, India
+ 2017-12-30 |     1 |          SocialDigitallyLahore, Pakistan
+
+---MORE---
+ date       | count | men_loc
+------------+-------+----------------------------------------------
+ 2017-12-30 |     1 |                          ShashiTharoorMumbai
+ 2017-12-30 |     1 |                 ShashiTharoorLudhiana, India
+ 2017-12-30 |     1 |                  ShamaJunejoLahore, Pakistan
+ 2017-12-30 |     1 |                       ShahidHassan57pakistan
+ 2017-12-30 |     1 |                         ShafaqHeraIslamabad 
+ 2017-12-30 |     1 |                    Shaahidzsome whr on earth
+ 2017-12-30 |     1 |              SenRehmanMalikKarachi, Pakistan
+ 2017-12-30 |     1 |         SecretaryMEITY20.5937° N, 78.9629° E
+ 2017-12-30 |     1 |               ScorpionAfridiLahore, Pakistan
+ 2017-12-30 |     1 |                     SanjayTandonBJPNew Delhi
+ 2017-12-30 |     1 |               SanjayAzadSlnUttarakhand India
+ 2017-12-30 |     1 | SabirMehmood26خانقاہ قادریہ نقشبندی دریاشریف
+ 2017-12-30 |     1 |               SabirMehmood26Lahore, Pakistan
+ 2017-12-30 |     1 |              RashidHashmispeshawar, Pakistan
+ 2017-12-30 |     1 |             RamPD78Shahdara New Delhi, India
+ 2017-12-30 |     1 |                                 Ra_THOReभारत
+ 2017-12-30 |     1 |                            RSSorgbhubaneswar
+ 2017-12-30 |     1 |                             PiyushGoyalIndia
+ 2017-12-30 |     1 |                 PandaJayBengaluru, Karnataka
+ 2017-12-30 |     1 |                      PTIofficialsaudi arabia
+ 2017-12-30 |     1 |                          PTIofficialpakistan
+ 2017-12-30 |     1 |                        PTIofficialIslamabad 
+ 2017-12-30 |     1 |                        PTISPOfficialpakistan
+ 2017-12-30 |     1 |                          PTIPunjabPKpakistan
+ 2017-12-30 |     1 |                        PTIKPOfficialpakistan
+ 2017-12-30 |     1 |                                 PMOIndiaभारत
+ 2017-12-30 |     1 |                          PMOIndiaगुजरात, भारत
+ 2017-12-30 |     1 |                    PMOIndiasome whr on earth
+ 2017-12-30 |     1 |                         PMOIndiaSikar, India
+ 2017-12-30 |     1 |                      PMOIndiaSheoganj, India
+ 2017-12-30 |     1 |                        PMOIndiaMumbai, India
+ 2017-12-30 |     1 |                   PMOIndiaMaharashtra, India
+ 2017-12-30 |     1 |       PMOIndiaDeoghar Professors Colony, Deo
+ 2017-12-30 |     1 |                          PMOIndiaChicago, IL
+ 2017-12-30 |     1 |                         PMOIndiaBihar, India
+ 2017-12-30 |     1 |               PMOIndia20.5937° N, 78.9629° E
+ 2017-12-30 |     1 |   OfficialDGISPR1Dubai, United Arab Emirates
+ 2017-12-30 |     1 |            OfficeOfRGNew Delhi, jamia millia
+ 2017-12-30 |     1 |                    OfficeOfRGLudhiana, India
+ 2017-12-30 |     1 |                         NitishKumarbangalore
+ 2017-12-30 |     1 |                        NitishKumarGopalganj.
+ 2017-12-30 |     1 |                         NitishKumarGopalganj
+ 2017-12-30 |     1 |                Nitinbhai_PatelUnited States 
+ 2017-12-30 |     1 |                 Nihar_NathaniBilaspur, India
+ 2017-12-30 |     1 |                   NiaSharma_FansHansi, India
+ 2017-12-30 |     1 |                     NiaSharma_FCHansi, India
+ 2017-12-30 |     1 |                            NewsXHansi, India
+ 2017-12-30 |     1 |      Naveen_OdishaBirmaharaj Pur,Subarna Pur
+ 2017-12-30 |     1 |              NaumanAbdulAzizLahore, Pakistan
+ 2017-12-30 |     1 |              NITIAayog20.5937° N, 78.9629° E
+ 2017-12-30 |     1 |                  MonsantoCoNewport Beach, CA
+ 2017-12-30 |     1 |               MonsantoBioAgNewport Beach, CA
+ 2017-12-30 |     1 |          MoeedNjBandipore, Jammu And Kashmir
+ 2017-12-30 |     1 |                       MediaCellPPPIslamabad 
+ 2017-12-30 |     1 |                  MaryamNSharifsouthampton uk
+ 2017-12-30 |     1 |                MaryamNSharifPunjab, Pakistan
+ 2017-12-30 |     1 |                        MaryamNSharifPakistan
+ 2017-12-30 |     1 |                     MaryamNSharifNew Zealand
+ 2017-12-30 |     1 |                          MaryamNSharifLondon
+ 2017-12-30 |     1 |         MaryamNSharifKingdom of Saudi Arabia
+ 2017-12-30 |     1 |             MaryamNSharifIslamabad, Pakistan
+ 2017-12-30 |     1 |                      MaryamNSharifIslamabad 
+ 2017-12-30 |     1 |                           MaryamNSharifEssex
+ 2017-12-30 |     1 |     MaryamNSharifDubai, United Arab Emirates
+ 2017-12-30 |     1 |    MaryamNSharifBandipore, Jammu And Kashmir
+ 2017-12-30 |     1 |                       MaryamNSharifAustralia
+ 2017-12-30 |     1 |                   MaryamNSharifAthens Greece
+ 2017-12-30 |     1 |                MaryamNSharifAl Faiha, Kuwait
+ 2017-12-30 |     1 |               MarchAgainstMNewport Beach, CA
+ 2017-12-30 |     1 |                           MJSARajasthanIndia
+ 2017-12-30 |     1 |    LokiOddin0xخانقاہ قادریہ نقشبندی دریاشریف
+ 2017-12-30 |     1 |                 LodhiMaleehaLahore, Pakistan
+ 2017-12-30 |     1 |                           KiritSomaiyaMumbai
+ 2017-12-30 |     1 |               KirenRijijuBirmingham, England
+ 2017-12-30 |     1 |      KhawajaMAsifDubai, United Arab Emirates
+ 2017-12-30 |     1 |                     KhSaad_RafiqueIslamabad 
+ 2017-12-30 |     1 |                        KapilSharmaK9Portugal
+ 2017-12-30 |     1 |                     JhaSanjayLudhiana, India
+ 2017-12-30 |     1 |                        JIPOfficialIslamabad 
+ 2017-12-30 |     1 |             IndianExpressChattisgarh , India
+ 2017-12-30 |     1 |             IndianCERT20.5937° N, 78.9629° E
+ 2017-12-30 |     1 |                             IndiaTodayMumbai
+ 2017-12-30 |     1 |               IndiaTodayDowntown, Washington
+ 2017-12-30 |     1 |                         ImranKhanPTIpakistan
+ 2017-12-30 |     1 |                      ImranKhanPTISchertz, TX
+ 2017-12-30 |     1 |          ImranKhanPTIMilton , Ontario CANADA
+ 2017-12-30 |     1 |                ImranKhanPTIKarachi, pakistan
+ 2017-12-30 |     1 |              ImranKhanPTIIslamabad, Pakistan
+ 2017-12-30 |     1 |                     ImranKhanPTIHatfield, UK
+ 2017-12-30 |     1 |     ImranKhanPTIGlasgow, Scotland / Pakistan
+ 2017-12-30 |     1 |             ImranKhanPTIFaisalabad, Pakistan
+ 2017-12-30 |     1 |             ImranKhanPTIDammam Saudi Arabia 
+ 2017-12-30 |     1 |                  ImranKhanPTICalifornia, USA
+ 2017-12-30 |     1 |                           INCIndiaमधुबन, भारत
+ 2017-12-30 |     1 |                       INCIndiaTitabor, India
+ 2017-12-30 |     1 |                    INCIndiaJamshedpur, India
+ 2017-12-30 |     1 |                                INCIndiaIndia
+ 2017-12-30 |     1 |                INCIndiaBallabgarh, Faridabad
+ 2017-12-30 |     1 |                 HorseHourNorth West, England
+ 2017-12-30 |     1 |                 HistoryToLearnWarsaw, Poland
+
+---MORE---
+ date       | count | men_loc
+------------+-------+-----------------------------------------
+ 2017-12-30 |     1 |                 HistoryToLearnHyderabad
+ 2017-12-30 |     1 |                    HarsimratBadal_India
+ 2017-12-30 |     1 |               HamidMirPAKکراچی, پاکستان
+ 2017-12-30 |     1 |      HamidMirPAKSomewhere in this world
+ 2017-12-30 |     1 |                    HamidMirPAKMelbourne
+ 2017-12-30 |     1 |              HamidMirPAKLondon, England
+ 2017-12-30 |     1 |                       HamidMirPAKLondon
+ 2017-12-30 |     1 |             HamidMirPAKLahore, Pakistan
+ 2017-12-30 |     1 |            HamidMirPAKBradford, England
+ 2017-12-30 |     1 |                           HMOIndiaIndia
+ 2017-12-30 |     1 |                          GoI_MeitYTheni
+ 2017-12-30 |     1 |                       GoI_MeitYChittoor
+ 2017-12-30 |     1 |         FWClothingUKNorth West, England
+ 2017-12-30 |     1 |                  EconomicTimesallahabad
+ 2017-12-30 |     1 |              EconomicTimesThane, Mumbai
+ 2017-12-30 |     1 |          DrJitendraSinghSheoganj, India
+ 2017-12-30 |     1 |                          DhumalHPSHIMLA
+ 2017-12-30 |     1 |            Dev_FadnavisNew Delhi, India
+ 2017-12-30 |     1 |    DeependerSHoodaBallabgarh, Faridabad
+ 2017-12-30 |     1 |                      DIPRRajasthanIndia
+ 2017-12-30 |     1 |                     ChouhanShivrajIndia
+ 2017-12-30 |     1 | ChouhanShivrajBasti uttar pradesh india
+ 2017-12-30 |     1 |               CMShehbazPunjab, Pakistan
+ 2017-12-30 |     1 |          CMOfficeUPBarabanki u.p. India
+ 2017-12-30 |     1 |    CMO_OdishaBirmaharaj Pur,Subarna Pur
+ 2017-12-30 |     1 |               CMOMaharashtraपिंपरी चिंचवड
+ 2017-12-30 |     1 |                    CMMadhyaPradeshIndia
+ 2017-12-30 |     1 |                 Bihar_BJPKatihar, India
+ 2017-12-30 |     1 |                 BJPINDIA7Katihar, India
+ 2017-12-30 |     1 |                   BJP4Maharashtrajaipur
+ 2017-12-30 |     1 |        BJP4Indiachandawal nagar , India
+ 2017-12-30 |     1 |                    BJP4Indiaajit Kumar 
+ 2017-12-30 |     1 |              BJP4IndiaSydney, Australia
+ 2017-12-30 |     1 |                   BJP4IndiaRatia, India
+ 2017-12-30 |     1 |             BJP4IndiaNew Delhi, India🇮🇳
+ 2017-12-30 |     1 |                  BJP4IndiaMysore, India
+ 2017-12-30 |     1 |             BJP4IndiaMaharashtra, India
+ 2017-12-30 |     1 |               BJP4IndiaKozhikode, India
+ 2017-12-30 |     1 |                 BJP4IndiaKatihar, India
+ 2017-12-30 |     1 |                     BJP4IndiaIndia,Usa 
+ 2017-12-30 |     1 |               BJP4IndiaHyderabad, India
+ 2017-12-30 |     1 |                       BJP4IndiaFirozabd
+ 2017-12-30 |     1 |                    BJP4IndiaChicago, IL
+ 2017-12-30 |     1 |            BJP4IndiaChattisgarh , India
+ 2017-12-30 |     1 |               BJP4IndiaBengaluru, India
+ 2017-12-30 |     1 |         BJP4IndiaBengaluru South, India
+ 2017-12-30 |     1 |          BJP4IndiaAuckland, New Zealand
+ 2017-12-30 |     1 | BJP4IndiaAndaman Nicobar Islands, India
+ 2017-12-30 |     1 |                           BJP4IndiaAgra
+ 2017-12-30 |     1 |                   BJP4India वसुधैव कुटुम्बकम
+ 2017-12-30 |     1 |                 BJP4Himachalajit Kumar 
+ 2017-12-30 |     1 |          BJP4HimachalMaharashtra, India
+ 2017-12-30 |     1 |                    BJP4HimachalFirozabd
+ 2017-12-30 |     1 |    BJP4GujaratBasti uttar pradesh india
+ 2017-12-30 |     1 |               BBhuttoZardariOntario, CA
+ 2017-12-30 |     1 |    AsimBajwaISPRRahim Yar Khan Pakistan
+ 2017-12-30 |     1 |                         Asad_UmarLahore
+ 2017-12-30 |     1 |         ArvindKejriwalUttarakhand India
+ 2017-12-30 |     1 |           ArvindKejriwalBilaspur, India
+ 2017-12-30 |     1 |            ArchanaDalmiaLudhiana, India
+ 2017-12-30 |     1 |                   AnushkaSharmaPortugal
+ 2017-12-30 |     1 |                   AmitShahराजस्थान, भारत
+ 2017-12-30 |     1 |         AmitShahchandawal nagar , India
+ 2017-12-30 |     1 |                     AmitShahajit Kumar 
+ 2017-12-30 |     1 |  AmitShahNawalgarh, jhunjhunu rajasthan
+ 2017-12-30 |     1 |              AmitShahMaharashtra, India
+ 2017-12-30 |     1 |                    AmitShahGumia, India
+ 2017-12-30 |     1 |                        AmitShahFirozabd
+ 2017-12-30 |     1 |             AmitShahChattisgarh , India
+ 2017-12-30 |     1 |                  AmitShahBharat (India)
+ 2017-12-30 |     1 |           AliSohrab007some whr on earth
+ 2017-12-30 |     1 |                    AliHZaidiPTIpakistan
+ 2017-12-30 |     1 |                 Ahmad_NooraniIslamabad 
+ 2017-12-30 |     1 |       AbsarAlamHaiderpeshawar, Pakistan
+ 2017-12-30 |     1 |             AbidSherAliLahore, Pakistan
+ 2017-12-30 |     1 |  AamAadmiPartyShahdara New Delhi, India
+ 2017-12-30 |     1 |               AamAadmiPartySan Jose, CA
+ 2017-12-30 |     1 |           AamAadmiPartyNew Delhi, Delhi
+ 2017-12-30 |     1 |                     AamAadmiParty India
+ 2017-12-30 |     1 |                        ANIsamdari,India
+ 2017-12-30 |     1 |                             ANIVadodara
+ 2017-12-30 |     1 |                    ANITamil Nadu, India
+ 2017-12-30 |     1 |                       ANIPuttur,  India
+ 2017-12-30 |     1 |                          ANIPune, India
+ 2017-12-30 |     1 |                          ANIBharat Mata
+ 2017-12-30 |     1 |                     ANIBengaluru, India
+ 2017-12-30 |     1 |                  ANIAlways Moving Ahead
+ 2017-12-30 |     1 |              AMITADAHEUR2hubli, dharwad
+ 2017-12-30 |     1 |              ABCCardinalCalifornia, USA
+ 2017-12-30 |     1 |               AAPExpressBilaspur, India

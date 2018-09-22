@@ -1,0 +1,22 @@
+Explaination of these Schema is in readme file 
+
+
+" Question 5 schema is given below"
+
+CREATE TABLE test4.mytable (
+    hashtags text,
+    count bigint,
+    date1 date,
+    PRIMARY KEY (hashtags, count, date1)
+) WITH CLUSTERING ORDER BY (count ASC, date1 ASC)
+
+
+"Question 11 Schema is given below"
+
+CREATE TABLE test5.mytable (
+    date date,
+    count bigint,
+    men_loc text,
+    PRIMARY KEY (date, count, men_loc)
+) WITH CLUSTERING ORDER BY (count ASC, men_loc ASC)
+
